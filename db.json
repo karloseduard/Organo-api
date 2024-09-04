@@ -129,40 +129,14 @@
       "id": "d024"
     },
     {
-      "id": "2",
-      "nome": "Fnatic",
-      "cor": "#ff5900"
-    },
-    {
-      "id": "3",
-      "nome": "Paper Rex",
-      "cor": "#A6D157"
-    },
-    {
-      "id": "4",
-      "nome": "DRX",
-      "cor": "#0f03a3"
-    },
-    {
       "id": "5",
       "nome": "Team Liquid",
       "cor": "#304667"
     },
     {
-      "id": "6",
-      "nome": "MIBR",
-      "cor": "#004A99"
-    },
-    {
       "id": "e0fb0e72-d794-49d7-b1d1-e219fdd624b5",
       "nome": "Furia",
       "cor": "#000000"
-    },
-    {
-      "id": "a3f7858c-2e82-4ae5-a452-151caaabc1c9",
-      "nome": "Sentinels",
-      "cor": "#ce0037"
     }
-
   ]
 }
